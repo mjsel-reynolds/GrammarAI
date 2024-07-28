@@ -1,2 +1,6 @@
-# GrammarAI
-Program / application that uses CHatGPT to help students with grammar, test their skills with unique prompts, etc.
+# Veg_Grow
+a custom OpenAI Assistant to tell you if a given plant should be watered based on the daily weather forecast in the given location
+
+Sources Used:
+
+
