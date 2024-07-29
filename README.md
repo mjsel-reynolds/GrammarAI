@@ -4,7 +4,7 @@ a custom OpenAI Assistant to give you custom plant care guides based on the weat
 e.g. can tell you whether you should water your plants that day based on the weather in your city
 
 ** Link to Project **
-https://0fc31f7597d441e8ed.gradio.live/
+https://c21fc5a4661c49ba44.gradio.live/
 
 In-Depth:
 The main purpose of this project is to create a user-friendly AI for students to learn more about agriculture, cosmetology, and plant life. Veg_Grow+ utilizes function calling and file retrieval to answer questions about different types of plants and how to care for them based on the weather in a given location. It advises others to thoughtfully care for plants based on the environment and their specific needs. The AI uses gets information from Purdue agricultural reports on various vegetable and fruit plants. I also gave my Veg_Grow Assistant access to a weather_api to get the daily forecast weather for a given location.
