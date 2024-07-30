@@ -4,6 +4,7 @@ a custom OpenAI Assistant to give you custom plant care guides based on the weat
 e.g. can tell you whether you should water your plants that day based on the weather in your city
 
 ** Link to Project **
+http://127.0.0.1:7860/
 https://c21fc5a4661c49ba44.gradio.live/
 
 In-Depth:
